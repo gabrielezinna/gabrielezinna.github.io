@@ -36,8 +36,9 @@ h3, h4, h5, h6 {
 a {
   /*color:#39c;
   font-weight:400;*/
-  color:#300;
+  color:#222;
   font-weight:300;
+  font-weight:24px;
   text-decoration:none;
 }
 
