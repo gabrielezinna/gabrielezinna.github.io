@@ -149,7 +149,8 @@ strong {
 }
 
 b {
-font-style:oblique;  
+font-style:oblique; 
+text-decoration:underline;
 
 }
 
