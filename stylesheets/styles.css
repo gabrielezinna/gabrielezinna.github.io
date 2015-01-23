@@ -149,7 +149,8 @@ strong {
 }
 
 b {
-font-weight:bold;
+font-style:oblique;  
+font-weight:300;
 }
 
 header ul li + li {
