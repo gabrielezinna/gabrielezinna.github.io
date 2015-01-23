@@ -145,6 +145,7 @@ header ul a {
 strong {
   color:#222;
   font-weight:300;
+  font-variant:small-caps;
 }
 
 b {
